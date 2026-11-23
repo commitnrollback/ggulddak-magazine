@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="꿀딱리뷰 매거진">
+  <rect width="64" height="64" rx="14" fill="#059669"/>
+  <rect x="21" y="13" width="22" height="8" rx="3" fill="#fbbf24"/>
+  <path d="M24 23h16v3.6c3.6 1.4 6 4.9 6 8.9v10.9c0 2.8-2.3 5.1-5.1 5.1H23.1C20.3 51.5 18 49.2 18 46.4V35.5c0-4 2.4-7.5 6-8.9z" fill="#fff7ed"/>
+  <path d="M24.5 35.5h15v3.2h-15z" fill="#059669" opacity=".28"/>
+  <path d="M26.5 42.5h11v3h-11z" fill="#059669" opacity=".18"/>
+</svg>
